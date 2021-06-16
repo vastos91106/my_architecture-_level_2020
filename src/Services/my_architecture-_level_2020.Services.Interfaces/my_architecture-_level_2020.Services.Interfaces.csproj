@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>my_architecture__level_2020.Services.Interfaces</RootNamespace>
+  </PropertyGroup>
+
+</Project>

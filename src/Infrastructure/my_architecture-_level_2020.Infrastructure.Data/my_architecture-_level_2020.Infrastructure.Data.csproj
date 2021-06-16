@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>my_architecture__level_2020.Infrastructure.Data</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\my_architecture-_level_2020.Domain.Interfaces\my_architecture-_level_2020.Domain.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
